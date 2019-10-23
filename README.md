@@ -1,4 +1,4 @@
-# nf-core/rescueseq
+# KinSEQ
 
 **A workflow for WGS-based relatedness estimation in non-model organisms**.
 
@@ -13,7 +13,7 @@ The pipeline is built using [Nextflow](https://www.nextflow.io), a workflow tool
 
 
 ## Documentation
-The nf-core/rescueseq pipeline comes with documentation about the pipeline, found in the `docs/` directory:
+The nf-core/kinseq pipeline comes with documentation about the pipeline, found in the `docs/` directory:
 
 1. [Installation](https://nf-co.re/usage/installation)
 2. Pipeline configuration
@@ -27,4 +27,4 @@ The nf-core/rescueseq pipeline comes with documentation about the pipeline, foun
 <!-- TODO nf-core: Add a brief overview of what the pipeline does and how it works -->
 
 ## Credits
-nf-core/rescueseq was originally written by Moraga / Galla / Hoeppner.
+nf-core/kinseq was originally written by Moraga / Galla / Hoeppner.
